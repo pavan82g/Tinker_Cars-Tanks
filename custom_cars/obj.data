@@ -1,0 +1,6 @@
+classes= 2
+train  = custom_cars/train.txt
+valid  = custom_cars/test.txt
+names = custom_cars/obj.names
+backup = backup_cars/
+
